@@ -2,7 +2,7 @@
 
 Game pickleball 3D chạy ngay trên trình duyệt (máy tính và điện thoại), không cần cài đặt.
 
-**Chơi ngay:** https://loznnhe12.github.io/pickleviet/
+**Chơi ngay:** https://loznnhe12.github.io/Pickleviet/
 
 ## Nội dung
 - Đấu nhanh: đơn nam, đơn nữ, đôi nam, đôi nữ, đôi nam nữ – luật pickleball chuẩn (vùng bếp, luật nảy hai lần, giao bóng chéo dưới tay, tính điểm giao bóng hoặc rally).
